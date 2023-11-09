@@ -1,0 +1,12 @@
+DIO_PROGRAM.o DIO_PROGRAM.o: ../DIO_PROGRAM.c ../BIT_MATH.h ../TYPES.h \
+  ../DIO_INTERFACE.h ../DIO_CONFIG.h ../DIO_PRIVATE.h
+
+../BIT_MATH.h:
+
+../TYPES.h:
+
+../DIO_INTERFACE.h:
+
+../DIO_CONFIG.h:
+
+../DIO_PRIVATE.h:
